@@ -1,0 +1,46 @@
+{
+  "en": {
+    "title": "Fuel Calculator",
+    "subtitle": "Calculate fuel consumption for your journey",
+    "kmALabel": "Starting Point (KM A)",
+    "kmAPlaceholder": "Enter starting kilometer",
+    "kmBLabel": "Destination (KM B)",
+    "kmBPlaceholder": "Enter destination kilometer",
+    "vehicleTypeLabel": "Vehicle Type",
+    "vehicleTypePlaceholder": "Select vehicle type",
+    "totalDistance": "Total Distance:",
+    "calculateButton": "Calculate",
+    "resetButton": "Reset",
+    "fuelNeeded": "Fuel Needed:",
+    "liters": "liters",
+    "tip": "💡 Tip: Make sure KM B is greater than KM A",
+    "errors": {
+      "fillAllFields": "Please fill in all fields",
+      "validNumbers": "Please enter valid numbers for kilometers",
+      "kmBGreater": "KM B must be greater than KM A",
+      "validVehicle": "Please select a valid vehicle type"
+    }
+  },
+  "id": {
+    "title": "Kalkulator BBM",
+    "subtitle": "Hitung konsumsi bahan bakar untuk perjalanan Anda",
+    "kmALabel": "Titik Awal (KM A)",
+    "kmAPlaceholder": "Masukkan kilometer awal",
+    "kmBLabel": "Tujuan (KM B)",
+    "kmBPlaceholder": "Masukkan kilometer tujuan",
+    "vehicleTypeLabel": "Jenis Kendaraan",
+    "vehicleTypePlaceholder": "Pilih jenis kendaraan",
+    "totalDistance": "Total Jarak:",
+    "calculateButton": "Hitung",
+    "resetButton": "Reset",
+    "fuelNeeded": "BBM Dibutuhkan:",
+    "liters": "liter",
+    "tip": "💡 Tips: Pastikan KM B lebih besar dari KM A",
+    "errors": {
+      "fillAllFields": "Mohon isi semua kolom",
+      "validNumbers": "Mohon masukkan angka yang valid untuk kilometer",
+      "kmBGreater": "KM B harus lebih besar dari KM A",
+      "validVehicle": "Mohon pilih jenis kendaraan yang valid"
+    }
+  }
+}
