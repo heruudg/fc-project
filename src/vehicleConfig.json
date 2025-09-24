@@ -1,0 +1,14 @@
+{
+  "vehicleTypes": [
+    {
+      "id": "engkel",
+      "name": "Engkel",
+      "kmPerLiter": 7
+    },
+    {
+      "id": "traga",
+      "name": "Traga",
+      "kmPerLiter": 9
+    }
+  ]
+}
